@@ -1,3 +1,3 @@
 foo
-    const currentAmountRaised =  35;
+    const currentAmountRaised =  65;
 bar
